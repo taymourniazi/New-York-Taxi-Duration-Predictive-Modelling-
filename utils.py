@@ -45,9 +45,9 @@ def get_train_test_fm(feature_matrix, percentage):
 
 
 
-##################
-# Case Study 6.1 #
-##################
+############################
+# Case Study New York Taxi #
+############################
 
 def column_string(n):
     string = ""
@@ -85,9 +85,9 @@ def compute_features(features, cutoff_time):
     return feature_matrix
 
 
-##################
-# Case Study 6.2 #
-##################
+#############################
+# Case Study UK Retail Data #
+#############################
 
 def load_uk_retail_data():
     item_purchases = pd.read_csv('uk-retail-data/item_purchases.csv')
