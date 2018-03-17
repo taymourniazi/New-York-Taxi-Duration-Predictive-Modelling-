@@ -6,5 +6,5 @@
 
 
 #### Techniques
-  *Deep Feature Synthesis (Transform Primitives, Aggregation Primitives)  
+  * Deep Feature Synthesis (Transform Primitives, Aggregation Primitives)  
   * Gradient Boosting Regressor for Modeling  
